@@ -1,0 +1,4 @@
+Html Etiketleri
+
+head etiketinin açıklanması hazırlyacağımız sayfa ile ilgili bilgilerin bulunduğu sayfa başlığı (title) link özellikleri, siteyi tarayıcıya ve arama
+motorlarına tanıtmak amacıyla kullanılan Meta etiketleri bölümdür.
